@@ -1,4 +1,4 @@
 # image slider
 _Objective:_
-create a dynamic image slider using HTML, CSS, and JavaScript
+Create a dynamic image slider using HTML, CSS, and JavaScript
 
